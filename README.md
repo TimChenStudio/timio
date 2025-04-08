@@ -1,4 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 個人網站
+
+這是我的個人網站，使用 Next.js 和 Tailwind CSS 建立。
+
+## 開發
+
+```bash
+# 安裝依賴
+npm install
+
+# 啟動開發伺服器
+npm run dev
+```
+
+## 部署
+
+網站會自動部署到 GitHub Pages。每次推送到 main 分支時，GitHub Actions 會自動建置並部署網站。
+
+## 技術棧
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
 
 ## Getting Started
 
